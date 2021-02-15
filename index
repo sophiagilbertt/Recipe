@@ -8,10 +8,12 @@
   <meta name="author" content="sophia gilbert">
 </head>
 <body>
-  <h1>"Tuscan White Bean Soup Recipe"</h1>
+  <h1>Tuscan White Bean Soup Recipe</h1>
+  <figure>
   <img src="https://d14iv1hjmfkv57.cloudfront.net/assets/recipes/tuscan-white-bean-soup/_1200x600_crop_center-center_82_line/IMG_0459.jpg?mtime=20200326090410&focal=none&tmtime=20200930131158" alt="white bean soup photo">
-  <figcaption>"Serves 6-8, Makes 3 quarts"</figcaption>
-  <h3> Ingredients</h3>
+  <figcaption>Serves 6-8, Makes 3 quarts</figcaption>
+  </figure>
+  <h3>Ingredients</h3>
   <ul>
         <li>"1 pound dried white cannellini beans"</li>
         <li>"Olive oil"</li>
