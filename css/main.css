@@ -1,4 +1,6 @@
-
+body {
+  background-color: #cce6ff;
+}
 img {
   max-width: 100%;
   height: auto;
