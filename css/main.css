@@ -1,6 +1,12 @@
 body {
-  background-color: #cce6ff;
+  background-color: #fff8dc;
+  color: #778899;
 }
+
+h1 {
+  color: #ff6347;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -12,4 +18,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+figcap {
+  color: #ff6347;
 }
