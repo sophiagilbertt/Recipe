@@ -2,19 +2,19 @@ body {
   background-color: #fff8dc;
 }
 
-body {
-  color: #778899;
-  font-family: Garamond, serif;
-  font-size: 20px;
-}
-
 h1 {
  font-family: copperplate, serif;
  font-size: 30px;
  line-height: 1em;
- border: 0.1em solid #000;
+ border: 0.1em solid #fff;
  padding: 1em;
  margin: 0.5em;
+}
+
+body {
+  color: #778899;
+  font-family: Garamond, serif;
+  font-size: 20px;
 }
 
 img {
