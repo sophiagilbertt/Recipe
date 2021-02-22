@@ -8,7 +8,7 @@ body {
   padding: 0 5%;
 }
 
-h1 {
+h1 class="header" {
  font-family: copperplate, serif;
  line-height: 1em;
  border: 0.1em solid #778899;
