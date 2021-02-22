@@ -3,7 +3,6 @@ body {
   background-color: #fff8dc;
   color: #778899;
   font-family: Garamond, serif;
-  font-size: 20px;
   max-width: 60em;
   margin: 0 auto;
   padding: 0 5%;
@@ -11,7 +10,6 @@ body {
 
 h1 {
  font-family: copperplate, serif;
- font-size: 30px;
  line-height: 1em;
  border: 0.1em solid #fff;
  padding: 1em;
