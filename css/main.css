@@ -11,8 +11,8 @@ body {
 h1 class="header" {
  font-family: copperplate, serif;
  text-align: center;
- line-height: 1em;
  border: 0.1em solid #778899;
+ line-height: 1em;
  padding: 1em;
  margin: 0.5em;
 }
