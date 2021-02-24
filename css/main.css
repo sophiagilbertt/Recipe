@@ -62,3 +62,7 @@ img {
 figure {
   text-align: center;
 }
+
+a {
+  margin: 1em;
+}
