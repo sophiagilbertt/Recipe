@@ -23,7 +23,7 @@ h1.header {
  margin: 0.5em; */
 
 h3.ingredients {
-  line-height: 3em;
+  line-height: 2em;
 }
 
 ul {
@@ -31,7 +31,7 @@ ul {
 }
 
 h3.directions {
-  line-height: 3em;
+  line-height: 2em;
 }
 
 ol {
@@ -66,5 +66,5 @@ figure {
 }
 
 a {
-  margin: 1em;
+  line-height: 2.5em;
 }
