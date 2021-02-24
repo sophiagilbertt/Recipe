@@ -15,7 +15,7 @@ h1.header {
  border: 0.4em solid #778899;
  max-width: 60em;
  padding: 2em;
- margin: 3em;
+ margin: 2em;
 }
 /* border: 0.4em solid #778899;
  line-height: 1em;
@@ -36,6 +36,9 @@ h3.directions {
 
 ol {
   line-height: 2.5em;
+}
+ul li::marker {
+  color: #ffa07a;
 }
 
 ol li::marker {
