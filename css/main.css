@@ -12,8 +12,8 @@ h1.header {
  font-family: copperplate, serif;
  color: #778899;
  text-align: center;
- border: 15px solid #778899;
- width: 0 auto;
+ border: 0.4em solid #778899;
+ max-width: 60em;
  padding: 2em;
  margin: 3em;
 }
@@ -36,6 +36,10 @@ h3.directions {
 
 ol {
   line-height: 2.5em;
+}
+
+ol li::marker {
+  color: #ffa07a;
 }
 
 img {
