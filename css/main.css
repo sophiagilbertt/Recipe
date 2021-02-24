@@ -22,8 +22,16 @@ h3.ingredients {
   line-height: 3em;
 }
 
+ul {
+  line-height: 2.5em;
+}
+
 h3.directions {
   line-height: 3em;
+}
+
+ol {
+  line-height: 2.5em;
 }
 
 img {
