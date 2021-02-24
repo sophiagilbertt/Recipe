@@ -61,6 +61,11 @@ img {
 
 figure {
   text-align: center;
+  margin: 1em;
+  border: 0.1em solid #ffa07a;
+  max-width: 10em;
+  padding: 2em;
+  margin: 1em;
 }
 
 a {
