@@ -62,6 +62,8 @@ img {
 figure {
   text-align: center;
   margin: 1em;
+}
+figcap {
   border: 0.1em solid #ffa07a;
   max-width: 10em;
   padding: 2em;
