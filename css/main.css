@@ -12,6 +12,10 @@ h1.header {
  font-family: copperplate, serif;
  color: #778899;
  text-align: center;
+ width: 0 auto;
+ border: 15px solid #778899;
+ padding: 2em;
+ margin: 3em;
 }
 /* border: 0.4em solid #778899;
  line-height: 1em;
