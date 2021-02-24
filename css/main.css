@@ -8,7 +8,7 @@ body {
   padding: 0 5%;
 }
 
-h1 class="header" {
+h1.header {
  font-family: copperplate, serif;
  text-align: center;
 }
@@ -17,7 +17,7 @@ h1 class="header" {
  padding: 1em;
  margin: 0.5em; */
 
-h3 class="ingredients" {
+h3.ingredients {
   line-height: 1.7em;
 }
 
