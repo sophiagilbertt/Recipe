@@ -26,6 +26,20 @@ h3.ingredients {
   line-height: 2em;
 }
 
+.list-featured::before {
+  top: 0;
+  left: 0;
+  border-top: 0.1rem solid #ffa07a;
+  border-left: 0.1rem solid #ffa07a;
+}
+
+.list-featured::after {
+  bottom: 0;
+  right: 0;
+  border-bottom: 0.1rem solid #f00;
+  border-right: 0.1rem solid #f00;
+}
+
 ul {
   line-height: 2.5em;
 }
